@@ -1,0 +1,1 @@
+This is a cringe game where you pick your starting class (just for fun doesn't matter what you pick) and then you fight 2 beasts. Beating the first one you need to choose a number between 0-1 (0/1). At the second fight you need to pick a number between 0-9 (0-9).
